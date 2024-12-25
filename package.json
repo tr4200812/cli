@@ -92,7 +92,7 @@
 		"chalk": "^5.3.0",
 		"follow-redirects": "^1.15.3",
 		"js-yaml": "^4.1.0",
-		"jsonc-parser": "^3.2.0",
+		"jsonc-parser": "^3.3.1",
 		"ncp": "^2.0.0",
 		"node-pty": "^1.0.0",
 		"proxy-agent": "^6.3.1",
