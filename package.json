@@ -99,7 +99,7 @@
 		"pull-stream": "^3.7.0",
 		"recursive-readdir": "^2.2.3",
 		"semver": "^7.5.4",
-		"shell-quote": "^1.8.1",
+		"shell-quote": "^1.8.2",
 		"stream-to-pull-stream": "^1.7.3",
 		"tar": "^6.2.0",
 		"text-table": "^0.2.0",
